@@ -40,3 +40,12 @@
 <p>Treat unhealthy patients in each room. And check for the unhealthy patients in random room</p>
 <h3>STEP 5:</h3>
 <p>Measure the performance parameters: For each treatment performance incremented, for each movement performance decremented</p>
+
+OUTPUT:
+
+<img width="625" height="283" alt="image" src="https://github.com/user-attachments/assets/80df1acb-82dd-4990-87f8-f3f9f3bac510" />
+
+RESULT:
+
+Thus, The Medicine Prescribing AI Agent was successfully developed and tested.
+
