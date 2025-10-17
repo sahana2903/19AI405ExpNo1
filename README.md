@@ -1,6 +1,6 @@
 <h1>ExpNo 1 :Developing AI Agent with PEAS Description</h1>
-<h3>Name: NALINIPRIYA G </h3>
-<h3>Register Number/Staff Id: TSIT031</h3>
+<h3>Name: SAHANA THASNEEM S.N </h3>
+<h3>Register No: 212224060225</h3>
 
 
 <h3>AIM:</h3>
